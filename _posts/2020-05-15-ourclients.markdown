@@ -1,0 +1,19 @@
+---
+layout: bb-item
+title:  Our Clients
+date:   2020-05-15 13:40:27 +0100
+categories: jekyll update
+image: images/demo1/4.jpg
+---
+A little about our clients.
+ 
+“Moodle has been adapted for use across education, business, non-profit, government, and many other community systems of all sizes.”
+-https://ethinkeducation.com/uk/what-is-moodle-guide/#whyismoodle
+ 
+Thanks to the unique modular design, Moodle and Totara can be used in countless scenarios. 
+ 
+Our clients range from schools and colleges to the United Nations. Synergy Learning is also deeply intertwined with the local community, working with companies such as Mindwise and Belfast Trust.
+
+
+
+

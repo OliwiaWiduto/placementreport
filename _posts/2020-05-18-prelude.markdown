@@ -1,0 +1,10 @@
+---
+layout: bb-item
+title:  Prelude
+date:   2020-05-16 13:40:27 +0100
+categories: jekyll update
+author: Oliwia
+image: images/dave.png
+---
+For the past year, I have been working as a UX Developer at <b>Synergy Learning</b>, an LMS solution expert based in Holywood, Northern Ireland. 
+Unless you are familiar with the Moodle universe, the above may sound like a load of new age jargon - allow me to explain why what we do at Synergy Learning is absolutely crucial in the modern world.
