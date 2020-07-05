@@ -3,7 +3,7 @@ layout: bb-item
 title:  Our Clients
 date:   2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/demo1/4.jpg
+image: images/dave.png
 ---
 A little about our clients.
  
