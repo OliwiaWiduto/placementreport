@@ -10,6 +10,7 @@
     <meta name="keywords" content="javascript, jquery, plugin, css3, flip, page, 3d, booklet, book, perspective" />
     <meta name="author" content="Codrops" />
     <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/modernizr.custom.js"></script>
 </head>
@@ -17,10 +18,10 @@
 <body>
     <div class="container">
         <header>
+            {% include nav.html %}
         </header>
         <div class="main clearfix">
             <div class="bb-custom-wrapper">
-                <h3>Placement Story</h3>
                 <div id="bb-bookblock" class="bb-bookblock">
                     {% for post in site.posts %}
                     {{ post }}
@@ -34,7 +35,7 @@
                 </nav>
             </div>
         </div>
-    </div><!-- /container -->
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="js/jquerypp.custom.js"></script>
     <script src="js/jquery.bookblock.js"></script>
@@ -120,6 +121,27 @@
     </script>
     <script>
     Page.init();
+    </script>
+
+
+    <script>
+    function darkmode() {
+        var element = document.getElementsByTagName("BODY")[0];
+        element.classList.toggle("darkmode");
+    }
+    </script>
+
+
+    <script>
+    //toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon
+    function navResponsive() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
     </script>
 </body>
 

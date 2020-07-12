@@ -38,7 +38,6 @@ a img {
 .main,
 .container > header {
 	margin: 0 auto;
-	padding: 2em;
 }
 
 .container {
@@ -67,6 +66,10 @@ a img {
 /* Main Content */
 .main {
 	max-width: 69em;
+	display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
 }
 
 .column {
@@ -98,7 +101,7 @@ color: #565656;
 }
 
 .demo-1 a {
-	color: #72b890;
+	color: $pink;
 }
 
 @media screen and (max-width: 46.0625em) {
