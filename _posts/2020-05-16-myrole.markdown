@@ -3,11 +3,10 @@ layout: bb-item
 title:  My Role
 date:   2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/1team.png
+image: images/moodletot.png
 ---
-The role of UX Developer refers to building and styling themes and additional functionality. The core skills required are not dissimilar to frontend development, with a sprinkle of PHP. The backend functionality of both Moodle and Totara is written with PHP and Javascript, and the frontend, in our case, is developed with handlebars and SCSS. 
- 
-As a UX Developer Intern, I mostly worked on application and theme support. This meant I was responsible for helping clients find their way around the application, making small theme changes to enhance accessibility and fit brand guidelines, as well as fixing bugs.
+The role of **UX Developer** refers to building and styling themes and additional functionality. The core skills required are not dissimilar to **frontend development**, with a sprinkle of **PHP**.
+  
+  The **backend** functionality of both Moodle and Totara is written with **PHP and Javascript**, and the **frontend**, in our case, is developed with **handlebars and SCSS**.  
 
-
-
+As a UX Developer Intern, I mostly worked on **application and theme support**. This meant I was responsible for helping clients find their way around the application, making small **theme changes** to **enhance accessibility** and fit brand guidelines, as well as fixing **bugs**.
