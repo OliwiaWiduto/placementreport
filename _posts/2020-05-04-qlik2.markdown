@@ -1,0 +1,20 @@
+---
+layout: bb-text
+title: Qlik
+date: 2020-05-15 13:40:27 +0100
+categories: jekyll update
+rightpage:
+|
+  * a 30 page long PDF of layouts (many of these repeated to show active states etc)
+  * a dropbox full of images where each folder matched up to one of the layouts
+  * an excel document which linked the images to the layouts 
+  * an updated version of this document
+  * another excel document which linked copy to the layouts  
+
+  It was during this project that I realised how powerful having 3 monitors is.
+
+
+---
+I worked on it for about 2 months, in the first couple months of my placement. Most importantly, it’s where I learned the majority of Moodle functionality thanks to Dave. This project involved building roughly 20 static HTML sections using bootstrap; backing up and restoring content, blocks and pages; updating the immense header and footer navigation; and speaking on various calls with the client.  
+
+The biggest challenge of this project was getting on the same page with the client regarding the copy which is to go inside the layouts. What I mean by this, is that I was handed, and asked to combine all of the following items as various static html sections.

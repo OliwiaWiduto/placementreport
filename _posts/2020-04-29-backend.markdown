@@ -1,0 +1,10 @@
+---
+layout: bb-item
+title: Backend
+date: 2020-05-15 13:40:27 +0100
+categories: jekyll update
+image: images/placeholder.png
+---
+Feeling confident and inspired, I had a couple ideas for my final year project which would all require me to build an app. I had a little play about with xcode and noticed some of the skills I needed are those which I didn’t take full advantage of learning at Synergy Learning - namely, programming and databases.
+ 
+I got on the good sides of the people who worked with the above, and got to shadow some of the amazing things they do. A big thank you is in order to Alex Paphitis who showed me lots of database basics - the hardest part is always starting out so I was incredibly lucky to have someone on that journey with me!

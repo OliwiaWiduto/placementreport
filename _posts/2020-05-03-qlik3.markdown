@@ -1,0 +1,11 @@
+---
+layout: bb-item
+title: The Qlik Project
+date: 2020-05-15 13:40:27 +0100
+categories: jekyll update
+image: images/placeholder.png
+---
+In the 8 months since this project, I thought about better ways for the client to convey this information but the biggest lesson here was that static sites just don’t do the job in a world which moves as fast as ours.  
+
+Nevertheless, I really enjoyed getting to know the capabilities of bootstrap, and working with the client. I also received endless help from my team - shoutout to Kenny for one of the most reassuring pats on the back I’ve ever received!
+

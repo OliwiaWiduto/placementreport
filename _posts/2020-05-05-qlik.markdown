@@ -1,0 +1,8 @@
+---
+layout: bb-item
+title: The Qlik Project
+date: 2020-05-15 13:40:27 +0100
+categories: jekyll update
+image: images/funding.png
+---
+This was my BIG project. Working alongside some of the best developers in the game, I was able to gain so much insight into a full scale client project.
