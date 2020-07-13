@@ -3,7 +3,7 @@ layout: bb-item
 title: Time Management
 date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/placeholder.png
+image: images/time.png
 ---
 Managing my time this year has been a big hurdle. Rather than finding this so called work-life balance, I felt like I was walking a tightrope juggling work, family, friends, a side hustle, exercise, chronic pain and preparing for my final year of university.
  

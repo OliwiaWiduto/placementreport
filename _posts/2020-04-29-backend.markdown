@@ -3,7 +3,7 @@ layout: bb-item
 title: Backend
 date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/placeholder.png
+image: images/backend.png
 ---
 Feeling confident and inspired, I had a couple ideas for my final year project which would all require me to build an app. I had a little play about with xcode and noticed some of the skills I needed are those which I didn’t take full advantage of learning at Synergy Learning - namely, programming and databases.
  
