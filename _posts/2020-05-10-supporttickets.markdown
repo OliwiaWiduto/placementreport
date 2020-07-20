@@ -3,7 +3,7 @@ layout: bb-item
 title: Support Tickets
 date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/placeholder.png
+image: images/supporttickets.png
 ---
 Some of the support tickets were brilliant. I had so much fun working with clients and helping out with simple configuration or adding finishing CSS/HTML touches which went such a long way in terms of usability.  
 

@@ -3,7 +3,7 @@ layout: bb-item
 title: Teamwork
 date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
-image: images/placeholder.png
+image: images/teamwork.png
 ---
 Here’s something I learned about myself: I’m a collaborative worker.  
 
