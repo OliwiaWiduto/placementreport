@@ -3,7 +3,6 @@ layout: bb-text
 title: Terminal
 date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
-class: titlepadding
 rightpage:
 |
   # Design  
