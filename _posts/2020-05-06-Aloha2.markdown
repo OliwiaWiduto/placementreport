@@ -5,6 +5,6 @@ date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
 image: images/coredocumentation.png
 ---
-Although we had a lot of great documentation, I didn’t find some of it until the last couple months of my placement. Some of it didn’t use the right keywords, but more importantly, there wasn’t a well organised index.  
+Although we had a lot of great documentation, I didn’t **find** some of it until the last couple months of my placement. Some of it didn’t use the right keywords, but more importantly, there wasn’t a **well organised index**.  
 
-I used the code from the team directory project to build a core documentation directory. This is a tab switcher which brings in documentation by title according to its label. I’m hoping this will help newstarts find their way around Aloha as well as offloading senior developers. Big wins all round!
+I used the code from the **team directory project** to build a **core documentation directory**. This is a tab switcher which brings in documentation by title according to its label. I’m hoping this will help newstarts find their way around Aloha as well as offloading senior developers. Big wins all round!

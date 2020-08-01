@@ -5,6 +5,6 @@ date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
 image: images/1team.png
 ---
-Our knowledge base is built on Confluence, internally named ‘Aloha’ after Roy’s trip to Hawaii. This is another powerful tool, it’s main feature being an extraordinarily customisable WYSIWYG with blocks containing complex elements (a little like bootstrap elements, but many also containing backend functionality) which can be styled further with css. 
+Our knowledge base is built on **Confluence**, internally named **‘Aloha’** after Roy’s trip to Hawaii. This is another powerful tool, it’s main feature being an extraordinarily **customisable WYSIWYG** with blocks containing complex elements (a little like bootstrap elements, but many also containing backend functionality) which can be styled further with css. 
  
-I wrote a lot of basic documentation such as setting up a Moodle playground on your local machine, but one of my favourite projects was building the team directory which I built out to look like a book. While working on this, I discovered a pain point in Aloha.
+I wrote a lot of **basic documentation** such as setting up a Moodle playground on your local machine, but one of my favourite projects was building the **team directory** which I built out to look like a book. While working on this, I discovered a **pain point in Aloha**.

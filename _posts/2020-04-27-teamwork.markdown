@@ -5,8 +5,8 @@ date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
 image: images/teamwork.png
 ---
-Here’s something I learned about myself: I’m a collaborative worker.  
+Here’s something I learned about myself: **I’m a collaborative worker**.  
 
-I noticed while accidentally simultaneously working with Nathan on a Support ticket, that I work much better in partner programming situations with the ability to bounce ideas and just a little bit of competition. I’ve always been a strong communicator and it seems my troubleshooting abilities soar when I say my hunches out loud. That’s just a little fun fact.  
+I noticed while accidentally simultaneously working with Nathan on a Support ticket, that I work much better in **partner programming** situations with the ability to bounce ideas and just a little bit of competition. I’ve always been a strong communicator and it seems my **troubleshooting abilities soar** when I say my hunches out loud. That’s just a little fun fact.  
 
-Similarly, I love love love speaking to clients and selling products. I always received 4 and 5 star reviews even from the most difficult clients, and believe me, that wasn’t for my off the cuff knowledge of Moodle config.
+Similarly, I love love love **speaking to clients and selling products**. I always received 4 and 5 star reviews even from the most difficult clients, and believe me, that wasn’t for my off the cuff knowledge of Moodle config.

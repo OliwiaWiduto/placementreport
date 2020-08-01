@@ -5,4 +5,4 @@ date: 2020-05-15 13:40:27 +0100
 categories: jekyll update
 image: images/placeholder.png
 ---
-As I’ve previously alluded, during my year at Synergy Learning I really fleshed out my skills in CSS, bootstrap and HTML. I very quickly realised this was the very tip of the iceberg.
+As I’ve previously alluded, during my year at Synergy Learning I really fleshed out my skills in CSS, bootstrap and HTML. I very quickly realised this was the very *tip of the iceberg*.
