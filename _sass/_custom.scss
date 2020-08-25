@@ -1,4 +1,7 @@
-.bb-item {
+    .bb-item-left, .bb-item-right {
+        text-align: left !important;
+    }
+
     .bb-item-left {
         padding: 1rem 2rem;
         float: left;
@@ -86,4 +89,3 @@
         top: 0;
         box-shadow: inset 17px 0 20px -7px rgba(0, 0, 0, 0.17);
     }
-}
